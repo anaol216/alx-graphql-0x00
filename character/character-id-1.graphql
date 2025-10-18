@@ -6,5 +6,6 @@ query {
     species
     type
     gender
+    image
   }
 }

@@ -6,7 +6,8 @@
       "status": "Alive",
       "species": "Human",
       "type": "",
-      "gender": "Male"
+      "gender": "Male",
+      "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
     }
   }
 }
